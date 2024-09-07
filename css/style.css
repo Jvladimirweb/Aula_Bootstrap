@@ -1,0 +1,36 @@
+boody {
+    font: 20px, Arial, sams-serif;
+}
+
+nav {
+    background: rgb(174, 203, 247);
+}
+
+.conteudo {
+    padding-left: 30px;
+}
+
+.sobremim {
+    background: rgb(254, 254, 254);
+    color: rgb(35, 33, 33);
+}
+
+.margin {
+    padding-bottom: 30px;
+    padding-top: 15px;
+}
+
+.estudos {
+    background-color: bisque;
+
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
+
+.links_pe {
+    text-decoration: none;
+    text-transform: none;
+}
